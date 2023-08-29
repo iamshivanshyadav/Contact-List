@@ -16,7 +16,7 @@ The Contact List project fetches contact data from the [JSONPlaceholder API](htt
 
 ## Demo
 
-You can check out the live demo of the Contact List project here: [https://contact-list-st.netlify.app/](https://contact-list-st.netlify.app/)
+You can check out the live demo of the Contact List project here: [Contact-List](https://contact-list-st.netlify.app/)
 
 ## Installation
 
